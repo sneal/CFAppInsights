@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFWebApplicationMvc", "CFWebApplicationMvc\CFWebApplicationMvc.csproj", "{8D210265-0875-4B57-9C98-91AE4A13B1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFWebApplicationMvc.Tests", "CFWebApplicationMvc.Tests\CFWebApplicationMvc.Tests.csproj", "{1AC6E00A-B1DD-4EB9-B780-3EC841D84028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D210265-0875-4B57-9C98-91AE4A13B1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D210265-0875-4B57-9C98-91AE4A13B1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D210265-0875-4B57-9C98-91AE4A13B1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D210265-0875-4B57-9C98-91AE4A13B1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC6E00A-B1DD-4EB9-B780-3EC841D84028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC6E00A-B1DD-4EB9-B780-3EC841D84028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC6E00A-B1DD-4EB9-B780-3EC841D84028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC6E00A-B1DD-4EB9-B780-3EC841D84028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D132EC-3D8B-447F-ABBD-9A949CBF39D2}
+	EndGlobalSection
+EndGlobal
